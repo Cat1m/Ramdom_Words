@@ -1,6 +1,6 @@
 # my_first_app
 
-A new Flutter project.
+Ghép 2 từ bất kì lại với nhau thành 1 cặp từ, có thể lưu lại các cặp từ yêu thích bằng icon <3
 
 ## Getting Started
 
